@@ -1,0 +1,28 @@
+.side-bar{
+    width: 120px;
+}
+
+.item-link{
+    display: block;
+    padding: 5px 0;
+    color: gray;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.item-link:hover{
+    font-size: 1.1em;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+}
+
+.category-list{
+    padding: 0;
+}
+
+.category-item{
+    border: none;
+    background-color: transparent;
+    padding: 0;
+}
